@@ -1,2 +1,2 @@
 # IOS_project_Indhu
-Run pod install - You have to install It before running project
+Run "pod install" command - You need to install it before running the project
